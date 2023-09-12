@@ -393,7 +393,7 @@ p {
 
 
 
-.layer:hover, .layer:active {
+.layer:hover {
     background: linear-gradient(rgba(0, 0, 0, 0.81)0%, #2A5B7F);
     height: 100%;
     width: 100%;
@@ -417,7 +417,7 @@ p {
     transition: all .40s;
 }
 
-.layer:hover h3, .layer:active h3 {
+.layer:hover h3 {
     bottom: 65%;
     opacity: 1;
 }
@@ -436,7 +436,7 @@ p {
     transition: all .40s;
 }
 
-.layer:hover h5, .layer:active h5 {
+.layer:hover h5{
     bottom: 53%;
     opacity: 1;
 }
@@ -458,12 +458,12 @@ p {
     transition: ease .40s;
 }
 
-.layer a:hover , .layer a:active  {
+.layer a:hover  {
     color: var(--text-color);
     background: #E8A6B0;
 }
 
-.layer:hover a, .layer:active a {
+.layer:hover a{
     bottom: 40%;
     opacity: 1;
 }
