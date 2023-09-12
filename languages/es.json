@@ -1,0 +1,65 @@
+{
+
+
+    "header": {
+        "home": "Inicio",
+        "aboutme": "Sobre Mi",
+        "portfolio": "Portafolio",
+        "contact": "Contacto"
+    },
+
+    "home": {
+        "greeting": "Hola Soy",
+        "rol": "Ingeniero en Software",
+        "country": "De México",
+        "description-home": " Soy Ingeniero de Calidad (QA) y Diseño UI/UX. Apasionada por la creatividad, el arte y por fijarme en donde nadie lo hace (encontrar errores de software 😂)."
+    },
+
+    "buttons": {
+        "btn-cv": "Descargar CV ",
+        "btn-aboutme": "Sobre Mi",
+        "btn-hireme": "Contáctame"
+    },
+
+    "skills": {
+        "section-skill": "Habilidades ",
+        "skill1": "Trabajo en equipo",
+        "description-skill1": "Me encanta trabajar en equipo, creo que un buen equipo alcanzas los objetivos de manera más eficiente y eficaz.",
+        "skill2": "Creatividad e Innovación ",
+        "description-skill2": "Tengo la capacidad de crear a partir de diferentes puntos de vista.",
+        "skill3": "Buena Comunicación",
+        "description-skill3": "Mis co-workers me consideran una persona que sabe comunicar sus ideas sin miedo a equivocarme, en realidad me gusta que me den retroalimentación."
+    },
+
+    "about-me": {
+        "title-about": "Sobre Mí",
+        "slogan-about": "¿Por qué seguir? Cuando puedes liderar",
+        "text-about": "Desde pequeña me encanta el arte🎨 y la tecnología💻, pero nunca me imagine que podria combinar estas dos pasiones en mi carrera profesional.<br/><br/>Tengo 1 año de experiencia como Ingeniero de Calidad y 2 años con proyectos independientes como Ingeniero UI/UX, siempre estoy en busca de nuevos retos en donde pueda aprender y crecer profesionalmente. <br/><br/>Cuando no estoy en la computadora estoy pasando tiempo con mi familia, estoy realizando ejercicio, viajando  o haciendo nuevas pinturas 💕"
+    },
+
+    "portfolio": {
+        "portfolio": "Portafolio <i class='bx bxs-briefcase' ></i>",
+        "text": "Algunos de mis trabajos ",
+        "description": "Mira algunos de mis increibles trabajos y proyectos como UI/UX ",
+        "title1": "Tierra Nativa",
+        "description1": "Realizar el diseño y estructura de la pagina web del administrador",
+        "btn1": "Ver Proyecto ",
+        "title2": "Soy Ingeniero en software",
+        "description2": "PUedo diseñar tofo bb",
+        "btn2": "micho texto que aun no se que poner asi es y ni modi bb ",
+        "title3": "Soy Ingeniero en software",
+        "description3": "PUedo diseñar tofo bb",
+        "btn3": "micho texto que aun no se que poner asi es y ni modi bb "
+        
+    },
+
+    "contact": {
+        "title-contact": "Contáctame",
+        "name": "Ingresa tu Nombre",
+        "email": "Ingresa tu Email",
+        "wsp": "Ingresa tu Whatsapp (opcional)",
+        "msg": "Agrega tu Mensaje",
+        "btn-submit": "Enviar"
+
+    }
+}

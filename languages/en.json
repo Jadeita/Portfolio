@@ -1,0 +1,65 @@
+{
+
+    "header": {
+        "home": "Home",
+        "aboutme": "About",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+    },
+
+    "home": {
+        "greeting": "Hello I´m",
+        "rol": "Software Engineer",
+        "country": "From Mexico",
+        "description-home": " I'm a QA Engineer and UI/UX Designer passionate with creativity, art and for seeing where no one is looking (find software bugs😂)."
+    },
+
+    "buttons": {
+        "btn-cv": "Download CV",
+        "btn-aboutme": "About Me",
+        "btn-hireme": "Contact Me"
+    },
+
+
+    "skills": {
+        "section-skill": "Habilidades ",
+        "skill1": "Team Work",
+        "description-skill1": "I love to work with teams, I communicate well with them and for me we can reach the goals with efficiently and effectively.",
+        "skill2": "Creative",
+        "description-skill2": " I have the capacity to create things with different aprochings.",
+        "skill3": "Good Communication",
+        "description-skill3": "My co-workers think that i can communicate my ideas well and i am not afraid to be wrong, actually love people to give me their feedback."
+    },
+
+    "about-me": {
+        "title-about": "About Me",
+        "slogan-about": "Why follow? when you can lead",
+        "text-about": "Since I was little I love art🎨 and technology💻, but I never imagined that I could combine these two passions in my professional career.<br/><br/>I have 1 year of experience as a Quality Engineer and 2 years with freelance projects as a UI/UX Engineer, I'm always looking for new challenges where I can learn and grow professionally. <br/><br/>When I'm not at the computer I'm spending time with my family, I'm exercising, traveling or making new paintings 💕."
+    },
+
+    "portfolio": {
+        "portfolio": "Portfolio <i class='bx bxs-briefcase' ></i>",
+        "text": "Some of my works ",
+        "description": "Checkout some of my amazing works and proyects as a UI/UX ",
+        "title1": "Tierra Nativa",
+        "description1": "Realizar el diseño y estructura de la pagina web del administrador",
+        "btn1": "Ver Proyecto ",
+        "title2": "Soy Ingeniero en software",
+        "description2": "PUedo diseñar tofo bb",
+        "btn2": "micho texto que aun no se que poner asi es y ni modi bb ",
+        "title3": "Soy Ingeniero en software",
+        "description3": "PUedo diseñar tofo bb",
+        "btn3": "micho texto que aun no se que poner asi es y ni modi bb "
+        
+    },
+
+    "contact": {
+        "title-contact": "Contact Me",
+        "name": "Type your Name",
+        "email": "Type your Email",
+        "wsp": "Type your Whatsapp (optional)",
+        "msg": "Type your Message",
+        "btn-submit": "Submit"
+    }
+
+}
