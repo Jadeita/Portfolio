@@ -239,7 +239,7 @@ p {
 }
 
 
-/* SECCIÓN SKILLS / HABILIDADES */
+/* -------------------------------------------- REVIEWS ---------------------------------------------------------------*/
 
 .heading-skills {
     text-align: center;
@@ -287,6 +287,21 @@ p {
     cursor: pointer;
 }
 
+.sub-box a {
+    text-decoration: none;
+    margin-right: 15px;
+    color: #AFCADC;
+    display: inline-block;
+    font-size: 30px;
+    transition: transform 0.5s;
+}
+
+.sub-box a:hover {
+    color: #E8A6B0;
+    transform: translateY(-5px);
+}
+
+
 
 /* div imagenes de skills */
 
@@ -326,7 +341,7 @@ p {
 }
 
 
-/* ABOUT ME SECTION */
+/*-------------------------------------------------  ABOUT ME SECTION -------------------------------------------*/
 
 .about {
     display: grid;
@@ -363,13 +378,11 @@ p {
 }
 
 
-/* PORTFOLIO SECTION */
+/* -------------------------------------- PORTFOLIO SECTION ---------------------------------------- */
 
 .heading {
     text-align: center;
 }
-
-
 
 .heading h2 {
     font-size: var(--h2-font);
@@ -407,8 +420,8 @@ p {
 }
 
 .col img {
-    max-width: 80;
-    width: 380px;
+    max-width: 100%;
+    width: 400px;
     height: auto;
     object-fit: cover;
     border-radius: 10px;
@@ -418,77 +431,36 @@ p {
     background: transparent;
     height: 100%;
     width: 100%;
-    position: absolute;
     top: 0;
-    border-radius: 10px;
-    transition: all .40s;
-}
-
-
-
-.layer:hover {
-    background: linear-gradient(rgba(0, 0, 0, 0.81)0%, #2A5B7F);
-    height: 100%;
-    width: 100%;
-    position: absolute;
-  
-    border-radius: 10px;
-    transition: all .40s;
 }
 
 .layer h3 {
-    position: absolute;
-    width: 100%;
     font-size: 25px;
     font-weight: 500;
     color: #AFCADC;
-    bottom: 0;
-    left: 50%;
+    margin-bottom: 10px;
     font-family: 'Bricolage Grotesque', sans-serif;
-    transform: translateX(-50%);
-    opacity: 0;
-    transition: all .40s;
 }
 
-.layer:hover h3 {
-    bottom: 65%;
-    opacity: 1;
-}
 
 .layer h5 {
-    position: absolute;
-    width: 100%;
     font-size: 17px;
     font-weight: 500;
     color: #AFCADC;
-    bottom: 5%;
-    left: 50%;
+    margin-bottom: 20px;
     font-family: 'Bricolage Grotesque', sans-serif;
-    transform: translateX(-50%);
-    opacity: 0;
-    transition: all .40s;
 }
 
-.layer:hover h5{
-    bottom: 53%;
-    opacity: 1;
-}
 
 .layer a {
-    position: absolute;
-    width: 50%;
-    font-weight: 500;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    opacity: 0;
-    transition: all .40s;
     color: var(--text-color);
     background: #AFCADC;
     font-size: var(--p-font);
     padding: 10px 40px;
+    font-weight: 500;
+    line-height: 24px;
     border-radius: 30px;
-    transition: ease .40s;
+    transition: ease .30s;
 }
 
 .layer a:hover  {
@@ -496,13 +468,10 @@ p {
     background: #E8A6B0;
 }
 
-.layer:hover a{
-    bottom: 40%;
-    opacity: 1;
-}
 
 
-/* ------------------------CONTACT--------------------- */
+
+/* --------------------------------------- CONTACT --------------------------------------- */
 
 .contact {
     min-height: 100vh;
