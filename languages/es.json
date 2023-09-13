@@ -5,6 +5,7 @@
         "home": "Inicio",
         "aboutme": "Sobre Mi",
         "portfolio": "Portafolio",
+        "review": "Reseñas",
         "contact": "Contacto"
     },
 
@@ -22,13 +23,15 @@
     },
 
     "skills": {
-        "section-skill": "Habilidades ",
-        "skill1": "Trabajo en equipo",
-        "description-skill1": "Me encanta trabajar en equipo, creo que un buen equipo alcanzas los objetivos de manera más eficiente y eficaz.",
-        "skill2": "Creatividad e Innovación ",
-        "description-skill2": "Tengo la capacidad de crear a partir de diferentes puntos de vista.",
-        "skill3": "Buena Comunicación",
-        "description-skill3": "Mis co-workers me consideran una persona que sabe comunicar sus ideas sin miedo a equivocarme, en realidad me gusta que me den retroalimentación."
+        "review": "Reseñas <i class='bx bxs-star'></i>",
+        "review-text": "Reseñas de mis compañeros de trabajo ",
+        "review-description": "¿Qué piensan mis compañeros de trabajo de mí? Aquí podras leer algunos de sus comentarios y opiniones sobre mí. ",
+        "position1": "Ingeniero DevOps",
+        "description-skill1": "Jade trabaja muy bien en equipo, es muy comprometida y responsable con su trabajo.",
+        "position2": "Ingeniero Frontend ",
+        "description-skill2": "Jade tiene la capacidad de crear cosas con diferentes enfoques. Su trabajo es muy detallado.",
+        "position3": "aqui falta alqguien ",
+        "description-skill3": "Aqui falta alguien"
     },
 
     "about-me": {
@@ -61,5 +64,9 @@
         "msg": "Agrega tu Mensaje",
         "btn-submit": "Enviar"
 
+    },
+
+    "copyright": {
+        "text": "Derechos de Autor © Jade. Realizado con <i class='bx bxs-heart'></i> Por Jade Bañuelos Gómez."
     }
 }

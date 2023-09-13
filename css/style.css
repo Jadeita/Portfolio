@@ -241,6 +241,32 @@ p {
 
 /* SECCIÓN SKILLS / HABILIDADES */
 
+.heading-skills {
+    text-align: center;
+}
+
+
+
+.heading-skills h2 {
+    font-size: var(--h2-font);
+    font-weight: 500;
+    margin: 7px 0px 20px;
+    line-height: 1.1;
+    color: #FFFDF6;
+}
+
+.heading-skills h3 {
+    font-size: 40px;
+    font-weight: 500;
+    color: #E8A6B0;
+}
+
+.heading-skills p {
+    font-size: var(--p-font);
+    line-height: 28px;
+    color: #AFCADC;
+}
+
 
 /* Div principal */
 
@@ -272,9 +298,16 @@ p {
 }
 
 .sub-box h3 {
-    margin-bottom: 20px;
+    margin-bottom: 2px;
     font-size: 24px;
     font-weight: 500;
+    color: #AFCADC;
+}
+
+.sub-box h4 {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 380;
     color: #AFCADC;
 }
 
@@ -541,7 +574,7 @@ form textarea {
     font-size: 18px;
 }
 
-.copyrigth {
+.copyright {
     width: 100%;
     text-align: center;
     padding: 25px 0;
@@ -550,7 +583,7 @@ form textarea {
     margin-top: 20px;
 }
 
-.copyrigth i {
+.copyright  i {
     color: #E8A6B0;
 }
 

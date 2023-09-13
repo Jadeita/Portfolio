@@ -4,6 +4,7 @@
         "home": "Home",
         "aboutme": "About",
         "portfolio": "Portfolio",
+        "review": "Reviews",
         "contact": "Contact"
     },
 
@@ -22,12 +23,14 @@
 
 
     "skills": {
-        "section-skill": "Habilidades ",
-        "skill1": "Team Work",
-        "description-skill1": "I love to work with teams, I communicate well with them and for me we can reach the goals with efficiently and effectively.",
-        "skill2": "Creative",
-        "description-skill2": " I have the capacity to create things with different aprochings.",
-        "skill3": "Good Communication",
+        "review": "Reviews <i class='bx bxs-star'></i>",
+        "review-text": "My co-workers reviews",
+        "review-description": "What my co-workers think about me? well here you can read some of their feedbacks and opinions about me.",
+        "position1": "DevOps Engineer",
+        "description-skill1": "Jade works good in team, she is very committed and responsible with her work.",
+        "position2": "Frontend Engineer",
+        "description-skill2": "She have the capacity to create things with different approaches. Her work is very detailed and creative.",
+        "position3": "Good Communication",
         "description-skill3": "My co-workers think that i can communicate my ideas well and i am not afraid to be wrong, actually love people to give me their feedback."
     },
 
@@ -60,6 +63,10 @@
         "wsp": "Type your Whatsapp (optional)",
         "msg": "Type your Message",
         "btn-submit": "Submit"
+    },
+
+    "copyright": {
+        "text": "copyright © Jade. Made with <i class='bx bxs-heart'></i> by Jade Bañuelos Gómez."
     }
 
 }
